@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: Git is a version control needed to help manage collaboration for the final project.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to business. For example, tracking stocks for business analytics.
